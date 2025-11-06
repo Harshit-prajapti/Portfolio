@@ -21,8 +21,6 @@ export const projects: Project[] = [
       'public/images/image2.png',
       'public/images/image.png'
     ],
-    // videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
-    // liveUrl: 'https://example-ecommerce.com',
     githubUrl: 'https://github.com/yourusername/ecommerce-platform',
     featured: true
   },

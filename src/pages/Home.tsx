@@ -68,7 +68,7 @@ export default function Home({ onNavigate }: HomeProps) {
           </div>
         </div>
 
-        <div className="absolute mt-5 bottom-0 left-1/2 transform -translate-x-1/2 animate-bounce">
+        <div className="absolute mt-5 bottom-0   left-1/2 transform -translate-x-1/2 animate-bounce">
           <div className="w-6 h-10 border-2 border-blue-600 dark:border-cyan-400 rounded-full p-1">
             <div className="w-1.5 h-3 bg-blue-600 dark:bg-cyan-400 rounded-full animate-scroll"></div>
           </div>
