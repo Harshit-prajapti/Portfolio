@@ -9,17 +9,17 @@ export const projects: Project[] = [
     technologies: ['Next.js', 'MongoDB', 'AI', 'Tailwind CSS'],
     category: 'Full Stack',
     liveUrl : '#',
-    thumbnail: 'src/public/thumbnail1.png',
+    thumbnail: 'https://res.cloudinary.com/dbknyppxl/image/upload/v1762535999/Screenshot_2025-10-13_164625_nwkkyv.png',
     images: [
-      'public/images/thumbnail1.png',
-      'public/images/image8.png',
-      'public/images/image7.png',
-      'public/images/image6.png',
-      'public/images/image5.png',
-      'public/images/image4.png',
-      'public/images/image3.png',
-      'public/images/image2.png',
-      'public/images/image.png'
+      'https://res.cloudinary.com/dbknyppxl/image/upload/v1762535999/Screenshot_2025-10-13_164625_nwkkyv.png',
+      'https://res.cloudinary.com/dbknyppxl/image/upload/v1762536016/Screenshot_2025-10-13_164754_etpjgt.png',
+      'https://res.cloudinary.com/dbknyppxl/image/upload/v1762536089/Screenshot_2025-10-13_164817_wi6xbi.png',
+      'https://res.cloudinary.com/dbknyppxl/image/upload/v1762536108/Screenshot_2025-10-13_164925_vtdcit.png',
+      'https://res.cloudinary.com/dbknyppxl/image/upload/v1762536120/Screenshot_2025-10-13_164954_uouupw.png',
+      'https://res.cloudinary.com/dbknyppxl/image/upload/v1762536129/Screenshot_2025-10-13_165040_fabbvg.png',
+      'https://res.cloudinary.com/dbknyppxl/image/upload/v1762536139/Screenshot_2025-10-13_165201_seakka.png',
+      'https://res.cloudinary.com/dbknyppxl/image/upload/v1762536153/Screenshot_2025-10-13_165234_mviosr.png',
+      'https://res.cloudinary.com/dbknyppxl/image/upload/v1762536070/image13_jqptu1.png'
     ],
     githubUrl: 'https://github.com/yourusername/ecommerce-platform',
     featured: true
@@ -31,12 +31,13 @@ export const projects: Project[] = [
     longDescription: 'A powerful sales management application designed for retailers. Built with next.js and MongoDB, it offers real-time tracking of sales, graphically representation of revenue and sales, project timelines, predection of market trands with ai, and grouth rate.',
     technologies: ['Next.js', 'MongoDB', 'TypeScript', 'Material-UI'],
     category: 'Full-Stack',
-    thumbnail: 'https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800',
+    thumbnail: 'https://res.cloudinary.com/dbknyppxl/image/upload/v1762536039/image10_djqxxc.png',
     images: [
-      'src/public/image9.png',
-      'src/public/image10.png',
-      'src/public/image11.png',
-      'src/public/image12.png'
+      'https://res.cloudinary.com/dbknyppxl/image/upload/v1762536039/image10_djqxxc.png',
+      'https://res.cloudinary.com/dbknyppxl/image/upload/v1762536058/image12_hclbnh.png',
+      'https://res.cloudinary.com/dbknyppxl/image/upload/v1762536058/image12_hclbnh.png',
+      'https://res.cloudinary.com/dbknyppxl/image/upload/v1762536029/Image9_b7dywl.png',
+      'https://res.cloudinary.com/dbknyppxl/image/upload/v1762536070/image13_jqptu1.png'
     ],
     // videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
     liveUrl: 'https://growlens.vercel.app/',
